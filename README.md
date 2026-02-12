@@ -1,6 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Zaid Samer Adnan Salamah" title="👋 Hi there! I'm Zaid Samer Adnan Salamah - Software Engineering Student from Jordan"/>](https://github.com/zeed-mk)
-
-![visitors](https://vbr.nathanchung.dev/badge?page_id=zeed-mk.zeed-mk&color=00cf00)
+![Charles VAN GOETHEM](https://raw.githubusercontent.com/Char-Al/char-al/master/puzzle.jpg)
 
 *𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2026-02-12`
 <!--
