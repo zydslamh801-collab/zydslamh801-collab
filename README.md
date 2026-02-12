@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Zaid Samer Adnan Salamah" title="👋 Hi there! I'm Zaid Samer Adnan Salamah"/>](https://github.com/zeed-mk)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Zaid Samer Adnan Salamah" title="👋 Hi there! I'm Zaid Samer Adnan Salamah - Software Engineering Student from Jordan"/>](https://github.com/zeed-mk)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=zeed-mk.zeed-mk&color=00cf00)
 
